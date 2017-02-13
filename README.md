@@ -1,2 +1,3 @@
-# GITbgcsa
-"first git"
+#Leitura do READ.me 
+
+hello - world 
